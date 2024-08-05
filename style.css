@@ -202,20 +202,11 @@ hr {
   /* width: fit-content;
    height: fit-content; */
 }
-.headerimg1 img {
-  width: 1250px;
-  margin-top: 10px;
-  margin-left: 20px;
-  /* margin-right:20px; */
-
-  /* padding-left: 20px;
-  padding-right: 20px; */
-}
 /* #outerbox1{
 
 } */
 
-.headerimg2 img {
+.headerimg img {
   width: 600px;
   height: 100px;
   margin-top: 10px;
